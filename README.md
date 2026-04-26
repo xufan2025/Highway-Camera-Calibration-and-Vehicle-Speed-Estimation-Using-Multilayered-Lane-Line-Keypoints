@@ -24,7 +24,8 @@ conda virtual environment is recommended.
 
 ## Citation
 Please cite this paper if you refer to our code or paper:  
-@article{xu2025highway,
+
+>@article{xu2025highway,
   title={Highway Camera Calibration and Vehicle Speed Estimation Using Multilayered Lane-Line Keypoints},
   author={Xu, Fan and Zhai, Xiaoguang and Chen, Chuibin and Ma, Kai-Kuang and Wu, Qihui and Zhang, Xiaofei},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
