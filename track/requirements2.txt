@@ -39,5 +39,5 @@ sympy~=1.11
 setuptools~=60.2.0
 self~=2020.12.3
 ffmpeg~=1.4
-scikit-image~=0.19.3
+scikit-image~=0.24.0
 ipython~=8.5.0
