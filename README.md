@@ -5,7 +5,7 @@ calibration and vehicle speed estimation method. For camera calibration, our app
 ## Installation  
 conda virtual environment is recommended.  
   `conda create -n venv1 python=3.9    `
-  `<conda activate venv1>    `
+  `conda activate venv1    `
   `pip install -r requirements1.txt    `
   `pip install -e .  `
 
