@@ -1,0 +1,43 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.2
+Pillow>=7.1.2
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+torch>=1.11.0
+torchvision>=0.8.1
+tqdm>=4.41.0
+
+# plotting ------------------------------------
+
+pandas>=1.1.4
+seaborn>=0.11.0
+
+# deep_sort -----------------------------------
+
+easydict~=1.9
+
+# torchreid
+
+Cython~=0.29.30
+h5py
+six
+# tb-nightly
+future
+yacs~=0.1.8
+gdown~=4.5.1
+flake8
+yapf
+isort==4.3.21
+imageio
+sympy~=1.11
+setuptools~=60.2.0
+self~=2020.12.3
+ffmpeg~=1.4
+scikit-image~=0.19.3
+ipython~=8.5.0
