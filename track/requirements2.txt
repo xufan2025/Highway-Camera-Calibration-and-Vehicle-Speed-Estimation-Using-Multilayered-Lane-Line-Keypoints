@@ -33,7 +33,7 @@ yacs~=0.1.8
 gdown~=4.5.1
 flake8
 yapf
-isort==4.3.21
+isort==6.1.0
 imageio
 sympy~=1.11
 setuptools~=60.2.0
