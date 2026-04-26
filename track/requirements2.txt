@@ -20,7 +20,7 @@ seaborn>=0.11.0
 
 # deep_sort -----------------------------------
 
-easydict~=1.9
+easydict~=1.13
 
 # torchreid
 
