@@ -12,7 +12,7 @@ conda activate venv1
 pip install -r requirements1.txt
 pip install -e .
 ```
-```bash
+```
   conda create -n venv2 python=3.7  
   conda activate venv2  
   pip install -r requirements2.txt  
