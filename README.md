@@ -15,7 +15,7 @@ conda virtual environment is recommended.
   pip install -e .  
 
 ## Main.py
-  python main.py
+  `python main.py`
 
 ## Datasets
   The dataset of Highway images can be downloaded from Baidu Webdisk.
