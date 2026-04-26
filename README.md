@@ -24,9 +24,11 @@ pip install -e .
   `python main.py`
 
 ## Datasets
-  The dataset of Highway images can be downloaded from Baidu Webdisk.
-  Link:https://pan.baidu.com/s/1kEaRAeRlK-ltE2beR3AvEQ   
-  Extract code: kqzv
+
+The highway image dataset can be downloaded from Baidu Netdisk:
+
+- Download Link: https://pan.baidu.com/s/1kEaRAeRlK-ltE2beR3AvEQ
+- Extraction Code: `kqzv`
 
 ## Citation
 
