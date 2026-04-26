@@ -24,7 +24,7 @@ easydict~=1.9
 
 # torchreid
 
-Cython~=0.29.30
+Cython~=3.2.4
 h5py
 six
 # tb-nightly
