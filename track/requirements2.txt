@@ -30,7 +30,7 @@ six
 # tb-nightly
 future
 yacs~=0.1.8
-gdown~=4.5.1
+gdown~=5.2.2
 flake8
 yapf
 isort==4.3.21
